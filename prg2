@@ -1,0 +1,3 @@
+class sample{
+    system.out.println("Hello,World!");
+}
